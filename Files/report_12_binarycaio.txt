@@ -1,0 +1,5 @@
+Receipt: 
+    Categorie: Food
+    Money spent: $120.00
+    Description: Meat and Rice
+    Date: 22/10/2022
