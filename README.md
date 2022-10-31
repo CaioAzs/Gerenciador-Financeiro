@@ -1,5 +1,5 @@
 <h6 align="center">
-    <img src="https://user-images.githubusercontent.com/113300327/198895443-ef44e564-306a-472c-b6f0-07c7c6a2d32c.png" alt="Demo" widht="300" height="250"/>
+    <img src="https://user-images.githubusercontent.com/113300327/199008135-ab53a86a-b979-4bed-8feb-54952a51d910.png" alt="Demo" widht="300" height="250"/>
 </h6>
 
 <h1 align="center">
@@ -8,8 +8,7 @@
 
 Status: Em andamento... 🕜
 
-<p>O projeto consiste em um gerenciador financeiro na linguagem C, no qual armazena em arquivos informações de receitas e gastos de uma carteira pessoal. Primeiamente é criado um arquivo em binário, que poderá mais tarde ser convertido pelo usuário para dois txt's, que mostrarão os gastos do último mês ou dos últimos 12 meses. O projeto foi desenvolvido durante o curso de "Desenvolvimento de algoritmos" do 2° Ciclo de Ciência da Computação FEI.</p>
-
+<p>O projeto consiste em um gerenciador financeiro na linguagem C, no qual armazena em arquivos informações de receitas e gastos de uma carteira pessoal. Primeiramente é criado um arquivo em binário, que poderá mais tarde ser convertido pelo usuário para dois txt's, que mostrarão os gastos do último mês ou dos últimos 12 meses. O projeto foi desenvolvido durante o curso de "Desenvolvimento de Algoritmos" do 2° Ciclo de Ciência da Computação FEI.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT%22%3E
@@ -39,8 +38,10 @@ Status: Em andamento... 🕜
 ## App Rodando:
 
 <div align="center">
-   <img src="https://user-images.githubusercontent.com/113300327/198909875-016dc3b9-3385-4128-b4f6-e524aa2b1f69.png" alt="Autoatendimento" height="230">
-   <img src="https://user-images.githubusercontent.com/113300327/198909906-14fff741-3d59-44a0-909f-d3ad4dbc77f9.png" alt="Autoatendimento 2" widht="340" height="230">
+   <img src="https://user-images.githubusercontent.com/113300327/199008618-3716c082-e486-4495-a26a-da755b5e25b4.png" alt="Financial 1" widht="340" height="230">
+   <img src="https://user-images.githubusercontent.com/113300327/199008567-120356bb-449d-4fff-835e-28651dfac2e1.png" alt="Financial 2" height="230">
+   <img src="https://user-images.githubusercontent.com/113300327/199008822-ffa1dadd-b3af-4b08-8f76-4da42f41369d.png" alt="Financial 3" height="230">
+   
 </div>
 
 ## Contribuindo
