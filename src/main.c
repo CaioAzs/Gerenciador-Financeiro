@@ -20,7 +20,7 @@ void menu() // Loops the menu on the terminal.
         printf("<= 0. Leave                  =>\n");
         printf("<=============================>\033[0m\n");
         scanf("%d", &i);
-        if (i != 1 || i!=2 || i!=3 || i!=4 || i!=5 || i!=0){
+        if (i != 1 && i!=2 && i!=3 && i!=4 && i!=5 && i!=0){
             printf("\033[31mPlease, enter a valid option.\033[0m");
         }
         menus[i - 1]();

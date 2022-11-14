@@ -1,0 +1,5 @@
+Expense: 
+    Categorie: Home Basics
+    Money spent: $-70.00
+    Description: Toilet Papers
+    Date: 10/11/2022

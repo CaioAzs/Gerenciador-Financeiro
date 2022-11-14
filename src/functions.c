@@ -181,7 +181,7 @@ int verify_date(int num, int dia, int mes, int ano) // This function verifies if
     struct tm tm = *localtime(&horario);
     if (num == 12)
     {
-        if ((tm.tm_mday + ((tm.tm_mon + 1) * 30) + ((tm.tm_year + 1900) * 12 * 30)) - (dia + (mes * 30) + (ano * 12 * 30)) <= 365)
+        if ((tm.tm_mday + ((tm.tm_mon + 1) * 30) + ((tm.tm_year + 1900) * 12 * 30)) - (dia + (mes * 30) + (ano * 12 * 30)) <= 360)
         {
             aux = 1;
         }
