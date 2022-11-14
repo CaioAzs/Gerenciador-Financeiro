@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include <math.h>
 
 char name[40], filename_aux[30], filename[30];
 typedef struct // Receipt/Expense class
