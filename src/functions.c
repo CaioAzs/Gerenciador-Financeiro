@@ -16,7 +16,6 @@ typedef struct // Receipt/Expense class
 
 void new_transaction() // If it exists, ads a new transaction (struct) in the binary file, on the contrary, the function creates a new binary file.
 {
-
     system("cls");
     printf("<=============================>\n");
     printf("<------ New Transaction ------>\n");
@@ -83,7 +82,6 @@ void new_transaction() // If it exists, ads a new transaction (struct) in the bi
 
 void transfer()
 {
-
     system("cls");
     printf("<==============================>\n");
     printf("<------- Money transfer ------->\n");
@@ -283,7 +281,6 @@ void report_12() // Prints the last 12 months transactions and creates a txt for
 
 void report_1() // Prints the last month transactions and creates a txt for the user.
 {
-
     system("cls");
     printf("<=================================>\n");
     printf("<------- Last Month Report ------->\n");
