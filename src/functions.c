@@ -167,7 +167,7 @@ void savings_account()
     }
     fprintf(file_savings, "Saving: \n    Money invested: %.2lf\n", initial_deposit);
     fprintf(file_savings, "    For: %d months\n", time);
-    fprintf(file_savings, "Final Amount: %.2lf\n", final_amount);
+    fprintf(file_savings, "Gross Profit: %.2lf\n", final_amount);
 
     fclose(file_savings);
     system(filename_open);
