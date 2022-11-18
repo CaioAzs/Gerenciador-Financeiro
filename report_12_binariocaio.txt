@@ -1,0 +1,10 @@
+Expense: 
+    Categorie: Home
+    Money spent: $-200.00
+    Description: Toilet Papers and Food
+    Date: 18/11/2022
+Money Transfer: 
+    To: Leonardo Anjoletto
+    Transfered: $2000.00
+    Description: Jogo do Bicho
+    Date: 12/11/2022
