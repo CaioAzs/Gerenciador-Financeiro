@@ -6,7 +6,7 @@
     Gerenciador Financeiro
 </h1>
 
-Status: Em andamento... 🕜
+Status: Finalizado! 👌
 
 <p>O projeto consiste em um gerenciador financeiro na linguagem C, no qual armazena em arquivos informações de receitas e gastos de uma carteira pessoal. Primeiramente é criado um arquivo em binário, que poderá mais tarde ser convertido pelo usuário para dois txt's, que mostrarão os gastos do último mês ou dos últimos 12 meses. O projeto foi desenvolvido durante o curso de "Desenvolvimento de Algoritmos" do 2° Ciclo de Ciência da Computação FEI.</p>
 
@@ -32,7 +32,7 @@ Status: Em andamento... 🕜
 ## Como rodar a aplicação:
 
 1. Instale todas as dependências (compilador, IDE);
-2. Compile e rode o arquivo main.c;
+2. Compile e rode o arquivo main.exe;
 3. Pronto!
 
 ## App Rodando:
